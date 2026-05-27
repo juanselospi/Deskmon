@@ -115,3 +115,5 @@ sf::Vector2f Digishell::whereAmI(const std::string& digimonKey) {
 }
 
 Digishell::~Digishell() {}
+
+// version solo de windows
